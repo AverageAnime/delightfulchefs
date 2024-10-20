@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " B ",
+        "SWS",
+        "S S"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "W": {
+            "tag": "c:slabs/wooden"
+        },
+        "B": {
+            "item": "farmersdelight:cutting_table"
+        }
+    },
+    "result": {
+        "item": "delightfulchefs:prep_table_block"
+    }
+}

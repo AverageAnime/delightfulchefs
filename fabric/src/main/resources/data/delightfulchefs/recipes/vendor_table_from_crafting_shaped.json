@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "SWS",
+        "SBS"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "W": {
+            "tag": "c:slabs/wooden"
+        },
+        "B": {
+            "tag": "c:cabinets/wooden"
+        }
+    },
+    "result": {
+        "item": "delightfulchefs:vendor_table_block"
+    }
+}

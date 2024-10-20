@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  ",
+        "SWS",
+        "SWS"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "W": {
+            "tag": "c:slabs/wooden"
+        }
+    },
+    "result": {
+        "item": "delightfulchefs:pastry_table_block"
+    }
+}

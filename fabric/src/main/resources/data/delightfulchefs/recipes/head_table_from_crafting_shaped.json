@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " C ",
+        "SWS",
+        "SBS"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "W": {
+            "tag": "c:slabs/wooden"
+        },
+        "C": {
+            "item": "farmersdelight:canvas_rug"
+        },
+        "B": {
+            "tag": "c:cabinets/wooden"
+        }
+    },
+    "result": {
+        "item": "delightfulchefs:head_table_block"
+    }
+}
