@@ -5,6 +5,10 @@ Delightful Chefs adds villager professions, job sites, and trades for [Farmer's 
 
 ### **New Professions & Job Sites:**
 
+* Customer - Trades
+    * New Job Sites
+        * Delightful Chefs: Serving Table
+    
 * Vendor - Trades
     * New Job Sites
         * Farmer's Delight: Cabinet (All variants)
