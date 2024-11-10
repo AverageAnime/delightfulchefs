@@ -1,11 +1,9 @@
 {
   "required": true,
-  "package": "net.averageanime.delightfulchefs.mixin",
+  "package": "",
   "compatibilityLevel": "JAVA_17",
   "minVersion": "0.8",
   "mixins": [
-    "VillagerEntityMixin",
-    "WanderingTraderMixin"
   ],
   "client": [
   ],

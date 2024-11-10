@@ -6,7 +6,7 @@ public class ModConfig implements Config {
 
     @Override
     public String getName() {
-        return "delightful-trades-config";
+        return "delightful-chefs-config";
     }
 
     @Override
@@ -18,11 +18,6 @@ public class ModConfig implements Config {
     public String getDirectory() {
         return "delightfulchefs";
     }
-
-    @Description("Amount of new trades per level a villager can have at max. (Default: 2)")
-    public int trade_offers_per_level = 2;
-    @Description("Amount of trades the wandering trader can have at max. (Default: 5)")
-    public int trade_offers_wandering_trader = 5;
 
 }
 
