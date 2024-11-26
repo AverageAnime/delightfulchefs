@@ -1,16 +1,16 @@
 {
-  "profession": "delightfulchefs:vendor",
-  "trades": {
-    "novice": [
-      {
-        "type": "delightfulchefs:sell_enchanted_book",
-        "currency": {
-          "item": "emerald"
-        },
-        "price_multiplier": 0.2,
-        "max_uses": 12,
-        "villager_experience": 1
-      }
-    ]
-  }
+    "profession": "delightfulchefs:worker",
+    "trades": {
+        "novice": [
+            {
+                "type": "delightfulchefs:sell_enchanted_book",
+                "currency": {
+                    "item": "emerald"
+                },
+                "price_multiplier": 0.1,
+                "max_uses": 1,
+                "villager_experience": 1
+            }
+        ]
+    }
 }
